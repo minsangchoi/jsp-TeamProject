@@ -24,7 +24,7 @@
 # 구현 화면
 
 * **메인 페이지**<br>   
- <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="600" heigth="325"/>
+ <img src="https://user-images.githubusercontent.com/87048430/126932916-429553f4-001d-4b15-9c30-2b73926df540.png" width="600" heigth="325"/>
   
 * **상품 카테고리**<br>
   <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="600" heigth="325"/>
