@@ -24,7 +24,7 @@
 # 구현 화면
 
 * **메인 페이지**<br>   
- <img src="https://user-images.githubusercontent.com/87048430/126932916-429553f4-001d-4b15-9c30-2b73926df540.png" width="600" heigth="100"/>
+ <img src="https://user-images.githubusercontent.com/87048430/126934119-f3ed0392-1d07-4cb3-96b8-b547175e46b6.PNG" width="600" heigth="325"/>
   
 * **상품 카테고리**<br>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126933558-af870817-6e11-4851-ad66-3917ac584307.gif)
