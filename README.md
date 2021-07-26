@@ -20,3 +20,26 @@
 * 장바구니
 * 상품구매
 * 게시판이용  및 댓글 작성
+* 
+# 구현 화면
+
+* **메인 페이지**<br>   
+ <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="600" heigth="325"/>
+  
+* **상품 카테고리**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="600" heigth="325"/>
+  
+* **상품 상세보기**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126926646-4f49f512-ca4c-4652-9a88-5541a9dbbcb1.PNG" width="600" heigth="325"/>
+
+* **장바구니**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126927999-09f230e5-26c4-4f11-84b1-018edd0662d4.PNG" width="600" heigth="325"/>
+  
+
+* **상품 주문**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126928014-bf705419-810d-4346-9255-e269016a011f.PNG" width="600" heigth="325"/>
+  
+
+* **회원 게시판** <br>
+
+
