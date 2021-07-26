@@ -24,20 +24,23 @@
 # 구현 화면
 
 * **메인 페이지**<br>   
- <img src="https://user-images.githubusercontent.com/87048430/126932916-429553f4-001d-4b15-9c30-2b73926df540.png" width="400" heigth="325"/>
+ <img src="https://user-images.githubusercontent.com/87048430/126932916-429553f4-001d-4b15-9c30-2b73926df540.png" width="600" heigth="325"/>
   
 * **상품 카테고리**<br>
-  <img src="https://user-images.githubusercontent.com/87048430/126926570-1d836bf2-1ccc-4ba7-bd68-a05ded8d9ef6.PNG" width="400" heigth="325"/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/87048430/126933558-af870817-6e11-4851-ad66-3917ac584307.gif)
   
 * **상품 상세보기**<br>
-  <img src="https://user-images.githubusercontent.com/87048430/126926646-4f49f512-ca4c-4652-9a88-5541a9dbbcb1.PNG" width="400" heigth="325"/>
+    ![ezgif com-gif-maker2](https://user-images.githubusercontent.com/87048430/126933587-eff983e3-03b3-46f6-ab45-49ab1058f859.gif)
 
 * **장바구니**<br>
-  <img src="https://user-images.githubusercontent.com/87048430/126927999-09f230e5-26c4-4f11-84b1-018edd0662d4.PNG" width="400" heigth="325"/>
+  <img src="https://user-images.githubusercontent.com/87048430/126933611-3dd01bf1-5da7-4175-98e8-14b8d0104259.PNG" width="600" heigth="325"/>
   
 
 * **상품 주문**<br>
-  <img src="https://user-images.githubusercontent.com/87048430/126928014-bf705419-810d-4346-9255-e269016a011f.PNG" width="400" heigth="325"/>
+  <img src="https://user-images.githubusercontent.com/87048430/126933613-cb79a68a-21b1-4a25-9bf5-f38c409dfb62.PNG" width="600" heigth="325"/>
+ 
+ * **상품 영수증**<br>
+  <img src="https://user-images.githubusercontent.com/87048430/126933604-6ed55275-cc3e-428f-a2aa-a851ba6b706f.PNG" width="600" heigth="325"/>
   
 
 * **회원 게시판** <br>
